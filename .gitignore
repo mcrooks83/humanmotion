@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+lib/__pycache__/
+
+
+
+lib/.DS_Store
+lib/.data/DS_Store
+lib/data
+
+.DS_Store
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
